@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    }
+]

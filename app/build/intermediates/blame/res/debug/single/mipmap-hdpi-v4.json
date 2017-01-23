@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\abc.jpg",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\abc.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\allen.jpg",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\allen.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wallpaper.jpg",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\wallpaper.jpg"
+    }
+]

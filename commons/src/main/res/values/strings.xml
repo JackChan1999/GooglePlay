@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Commons</string>
+
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="saving_image">正在保存图片..</string>
+    <string name="preparing_card">SD卡正在准备..</string>
+    <string name="no_storage_card">没有内存卡</string>
+    <string name="not_enough_space">内存空间不足</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="7dp"
+    android:paddingTop="7dp">
+    <!--android:background="@drawable/detail_bottom_bg"-->
+
+    <!-- 收藏button -->
+
+    <Button
+        android:id="@+id/app_detail_download_btn_favo"
+        android:layout_width="68dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/selector_detail_btn_bg"
+        android:text="收藏"
+        android:textColor="@color/white"/>
+
+    <!-- 分享button -->
+
+    <Button
+        android:id="@+id/app_detail_download_btn_share"
+        android:layout_width="68dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/selector_detail_btn_bg"
+        android:text="分享"
+        android:textColor="@color/white"/>
+
+    <!-- 下载区域 -->
+
+    <com.qq.googleplay.ui.widget.ProgressButton
+        android:id="@+id/app_detail_download_btn_download"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@id/app_detail_download_btn_share"
+        android:layout_toRightOf="@id/app_detail_download_btn_favo"
+        android:gravity="center"
+        app:progressbtn_backgroud_color="#6598FD"
+        app:progressbtn_backgroud_second_color="#cbcbcb"
+        />
+
+    <!--android:text="下载"
+    android:textColor="@color/white"-->
+</RelativeLayout>

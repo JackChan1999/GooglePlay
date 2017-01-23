@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    android:id="@id/drawerLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:qq="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+    <!--内容界面-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar"/>
+
+        <!-- <com.qq.googleplay.ui.widget.PagerSlidingTabStrip
+             android:id="@id/tabs"
+             android:layout_width="match_parent"
+             android:layout_height="48dp"
+             qq:pstsIndicatorColor="@color/tab_indicator_selected"
+             qq:pstsIndicatorHeight="5dp"
+             qq:pstsSelectedTabTextColor="@color/tab_text_selected"
+             qq:pstsSelectedTabTextSize="18sp"
+             qq:pstsTabTextColor="@color/tab_text_normal"
+             qq:pstsTabTextSize="16sp"
+             />-->
+
+        <android.support.design.widget.TabLayout
+            android:id="@id/tabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            qq:tabIndicatorColor="@color/titleBlue"
+            qq:tabIndicatorHeight="3dp"
+            qq:tabSelectedTextColor="@color/titleBlue"
+            qq:tabTextAppearance="@style/CustomTabLayout"
+            qq:tabTextColor="#212121"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#e0e0e0"/>
+        <!-- android:background="@color/titleBlue"-->
+
+        <!-- <android.support.v4.widget.SwipeRefreshLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+         </android.support.v4.widget.SwipeRefreshLayout>-->
+        <android.support.v4.view.ViewPager
+            android:id="@id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <!-- android:background="#eaeaea"-->
+    </LinearLayout>
+
+    <!--侧滑菜单内容-->
+    <!-- <LinearLayout
+         android:id="@id/drawer_view"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_gravity="left"
+         android:background="#1cd1bc"
+         android:orientation="vertical"
+         >
+     </LinearLayout>-->
+
+    <android.support.design.widget.NavigationView
+        android:id="@id/nv_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:fitsSystemWindows="true"
+        qq:headerLayout="@layout/header_just_username"
+        qq:menu="@menu/menu_drawer"/>
+</android.support.v4.widget.DrawerLayout>

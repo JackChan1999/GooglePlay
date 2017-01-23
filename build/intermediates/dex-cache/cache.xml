@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\umeng_social_view.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86d52b332454ac27e5cc899b2f7c4164179a5bf4">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_view_613e1d36b0e614c92f4543036315faf98568e77b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\linkedin-j-android-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13bae5a8934c403ab39853974dd6e798d2217ae7">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\linkedin-j-android-1.0_8a8d998d9539161805cd5941245f739438541a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_3bf962352983c29abe8f703c7c1839c4e95b9ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\SocialSDK_umengsina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b800e537b89a9c3bc41bc7d32d56226ba50f0d49">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_umengsina_9245532d2a8f992bd95c97a7de8535430cc5bc1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\SocialSDK_umengwx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8496f882eb746e6bbfda8590800c8b9f9d84387">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_umengwx_6c8b3bae26e1e64a18fb9d689cb6f3c56b2dc3d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.traex.rippleeffect-library-1.3_51701cb5ba6fa8c01628c2ee3666685d749a3279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_871f58697cf0d483f080d7db5ffb3cc448de5221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_623b60f6534ee57689a679a446c548a3a3f31365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_f9ca34b9264c9b9dde08c39ae99c5d370d325723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47d92007ca13efd47efad1af94d842ecb5066310">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\signpost-core-1.2.1.1_244f24757e5fa8e51ff872127ba1ec041b70edf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3473b573a98d8ce7e258a757b44a559abf09223b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_f6f3f2d00395d6044d59a20d476ffdc17be9fab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-studio\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.10_de48c46306f0886ce06d8a795f7ccd1a6952ed7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07a1832fdb6b44c0f4ec761ac3de02bfd3508269">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.bumptech.glide-okhttp3-integration-1.4.0_c32df374d7f7aeef5f257aa0bb29540a720b4d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_dc607f91efc64df3c8e25415361616d6d702fe6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b1f793642ea145085449e93741e48a2cba40cc5">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8cb510b4346ef5ded459a3f27701075f5c0e9f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\signpost-commonshttp4-1.2.1.1_9862e9db8de05e183a61b39209ca1c4632cf714e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99f981334b36f97dd8fbf4ac713073a760c8449c">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_265995d1ad914fef42e79e7953b41e8130344df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADT-Bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_7f65dbf863b66486560b51a452ab44ce10af7208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ace37c07680f4173ef120ffe0dd673d8371806d">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_5cb41c8095edac1af501ccd2ca4a8e373948f6c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_6369a554881a7a0df3f9f67bfe64e5d89d71c2d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_5d01f5f18ec6ae5dc9acb49fed92131d029f5f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_039a8b5a4d9f8c500cfa2bb5cb58f68abaac39ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d148ed4d1749a8136421f3670dd98b352cd6aaa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_bd617001e78ca36019b38fb96c5dae1c40cc47a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADT-Bundle\sdk\build-tools\25.0.0\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_3fd57c1feb72d2f01c26525d6200edc12ab4ae95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_24811897943f297e6dac35fc5a7ab680a77d1fcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87d89251a36c5f2bf1f76c41f9e5860f2822b3a9">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_1931017fe49beb292ef5bcf4dc9b7f2bb448a409\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\socialauth-4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\socialauth-4.4_642756f8b5cfd8e693a5911f70b1cf8d203074a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bae80e37ce0eef307a3d526990385a8a156b7fe">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_67e38d45fcfdf2394c97ff132e3932542fa60da6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="783127c8b1d23b84cccc3dc776ca4637d4aba900">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.0.1_8f98812f449b5ed5e339ebc5e458b746824810c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f530da8c7a3a033cef13d2627425182d1622c07d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_fe928cc4087b15ea3b731355d49286b20a568b19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_39deb6fc73be62bd63badc0c8f7e7f576c27a87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_185bc997972638ff62215672705549026f836d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b42f6281eb5336614b3bd20fa5cea3c3c443112a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\SocialSDK_umengqq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87818f2bc6fb7e22cee4c4c9485b7ce8ef641c27">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_umengqq_3ff7fc04ce9765afb8efdd3364962ab47ccd2b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gradle\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_b91581e2859b1a5c08bb10fc43db1511ba58c9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b216455b173d0a408bb34340294d3d1f07cf220e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_445a0df001cdd728637d2c217464a8209c016a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_125ca27bc98e3b075db8e70db5610b6ee5e125ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57cd51a133af01d64f91e9667be4f153195506a6">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_e2c19936fcc13a99b94d98a6b9c0e1968b61b263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2ba65f008fdcb722816ff130c7a293a974f827a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_bfc4c5c511b7772ad8c9c89d9eaa0fc56fe0cbd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\libs\scribe-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\2\scribe-1.3.0_768c79b67d1959d5685787cbd32d77b44b9aafda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3a127f6e253993ed2fa660170ea740dee76c1391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\GooglePlay\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="E:\workspace\GooglePlay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.balysv-material-ripple-1.0.2_da7c6c94906133b673c15545dc4cd47235907881\classes.dex" />
+    </item>
+
+</items>

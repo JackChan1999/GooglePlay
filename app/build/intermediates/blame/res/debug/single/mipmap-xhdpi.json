@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_delete_grey.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_cancle_normal.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_cancle_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_cancle_on.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_cancle_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_android.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_android.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_sina_on.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_sina_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\btn_login_normal.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\btn_login_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_wechat_on.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_wechat_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_wechat_normal.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_wechat_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_qq_normal.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_qq_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_qq_on.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_qq_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_login_sina_normal.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_sina_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\btn_login_on.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xhdpi\\btn_login_on.png"
+    }
+]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@id/ll_header"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="183dp"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <com.qq.googleplay.ui.widget.CircleImageView
+        android:id="@id/icon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:civ_border_color="#fff"
+        app:civ_border_width="3dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="阿伦-艾弗森"
+        android:layout_marginTop="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#fff"
+        android:textSize="16dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="生活不只眼前的苟且，还有诗和远方"
+        android:layout_marginTop="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#fafafa"
+        android:textSize="14dp"/>
+
+</LinearLayout>
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="192dp"
+    android:background="@mipmap/wallpaper"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+    <TextView
+        android:id="@+id/id_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/github"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#fff"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/id_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/id_link"
+        android:text="AllenIverson"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#fff"
+        android:textSize="16sp"/>
+
+    <com.qq.googleplay.ui.widget.CircleImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_above="@id/id_username"
+        android:layout_marginBottom="16dp"
+        android:src="@mipmap/allen"/>
+
+
+</RelativeLayout>-->

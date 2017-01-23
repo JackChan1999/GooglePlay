@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="web_view" type="id"/>
+    <item name="progress_container" type="id"/>
+    <item name="contact" type="id"/>
+    <item name="view01" type="id"/>
+    <item name="contactList" type="id"/>
+    <item name="rippleview" type="id"/>
+    <item name="Md_list_company" type="id"/>
+</resources>

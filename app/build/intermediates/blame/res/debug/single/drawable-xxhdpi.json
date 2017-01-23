@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_bg.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_control_draged_bg_color_dodgerblue.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_control_draged_bg_color_dodgerblue.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer_shadow_light.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow_light.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_track.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_track.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_control_disable_color_dodgerblue.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_control_disable_color_dodgerblue.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_control_pressed_color_dodgerblue.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_control_pressed_color_dodgerblue.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_primary_normal_color_dodgerblue.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_primary_normal_color_dodgerblue.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_control_normal_color_dodgerblue.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_control_normal_color_dodgerblue.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\smartbar_background.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\smartbar_background.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mz_tab_selected.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\mz_tab_selected.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\scrubber_primary_disable_color_dodgerblue.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-xxhdpi\\scrubber_primary_disable_color_dodgerblue.9.png"
+    }
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="category_card_padding_bottom">12dp</dimen>
+    <dimen name="category_item_height">84.5dip</dimen>
+    <dimen name="common_list_margin_left">16.0dip</dimen>
+    <dimen name="common_list_margin_right">16.0dip</dimen>
+    <dimen name="category_item_title_width">82.0dip</dimen>
+    <dimen name="category_item_tag_icon_width">28.0dip</dimen>
+    <dimen name="category_item_title_margin_top">7.0dip</dimen>
+    <dimen name="category_item_title_textSize">14.0sp</dimen>
+    <dimen name="category_item_vertical_divider_width">0.5dip</dimen>
+    <dimen name="category_item_vertical_divider_height">38.0dip</dimen>
+    <dimen name="category_item_tag_width">90.0dip</dimen>
+    <dimen name="category_item_tag_height">42.5dip</dimen>
+    <dimen name="common_list_divider_height">0.5dip</dimen>
+    <dimen name="category_card_padding_left">12.0dip</dimen>
+    <dimen name="category_card_padding_right">12.0dip</dimen>
+    <dimen name="category_card_padding_top">12.0dip</dimen>
+    <dimen name="category_divider_bar_height">12.0dip</dimen>
+    <dimen name="slidingmenu_menu_width">256dp</dimen>
+    <dimen name="mc_drawerscaledrawable_path_distance">4dp</dimen>
+    <dimen name="mc_drawerscaledrawable_path_length">9dp</dimen>
+    <dimen name="mc_drawerscaledrawable_path_min_length">4dp</dimen>
+    <dimen name="mc_drawerscaledrawable_path_thickness">2.5dp</dimen>
+    <dimen name="mc_smartbarbar_divider_height">2px</dimen>
+    <dimen name="mz_action_bar_default_height_appcompat_split">52dp</dimen>
+    <dimen name="mc_titlebar_divider_height">1dp</dimen>
+    <dimen name="mz_action_bar_default_height_appcompat">48dp</dimen>
+    <dimen name="status_bar_height">25dp</dimen>
+    <dimen name="mc_drawable_tip_radius">2.5dip</dimen>
+    <dimen name="mc_cir_progress_button_stroke_width">4dip</dimen>
+    <dimen name="actionbar_and_statusbar_height">73dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="letv_dimens_text_13">13dp</dimen>
+
+</resources>

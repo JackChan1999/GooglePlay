@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">GooglePlay</string>
+    <string name="action_search">搜索</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="load_error">重新刷新</string>
+    <string name="loading">正在加载中...</string>
+    <string name="github">https://github.com/JackChen1999</string>
+    <string name="list_footer_loading">正在加载中...</string>
+    <string name="list_footer_end">没有更多数据了</string>
+    <string name="list_footer_network_error">点击重新加载</string>
+    <string name="battery_info_status_charging">正在充电</string>
+    <string name="battery_info_status_charging_ac">正在通过交流电源充电</string>
+    <string name="battery_info_status_charging_usb">正在通过USB充电</string>
+    <string name="battery_info_status_charging_wireless">正在进行无线充电</string>
+    <string name="battery_info_status_discharging">未在充电</string>
+    <string name="battery_info_status_not_charging">未在充电</string>
+    <string name="battery_info_status_full">电量充足</string>
+    <string name="battery_info_status_unknown">未知</string>
+    <string name="select_all">全选</string>
+    <string name="select_all_cancel">全不选</string>
+
+
+    <string-array name="main_titles">
+        <item>首页</item>
+        <item>应用</item>
+        <item>游戏</item>
+        <item>专题</item>
+        <item>推荐</item>
+        <item>分类</item>
+        <item>排行</item>
+    </string-array>
+
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="saving_image">正在保存图片..</string>
+    <string name="preparing_card">SD卡正在准备..</string>
+    <string name="no_storage_card">没有内存卡</string>
+    <string name="not_enough_space">内存空间不足</string>
+
+    <!-- 应用详情 -->
+    <string name="detail_downloadnum">下载:%1$s</string>
+    <string name="detail_version">版本:%1$s</string>
+    <string name="detail_date">时间:%1$s</string>
+    <string name="detail_size">大小:%1$s</string>
+
+    <string name="downloaded">&#160;%s %%</string>
+
+    <string name="login">登录</string>
+    <string name="phone">请输入您的手机号码</string>
+    <string name="password">请输入您的密码</string>
+    <string name="use_third_account">第三方账号登录</string>
+    <string name="create_infm_account">创建账号</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="no_install_wechat">未安装微信</string>
+    <string name="no_install_qq">未安装QQ</string>
+    <string name="tip_loging">登录中...</string>
+    <string name="tip_begin_oauth">开始授权...</string>
+    <string name="tip_login_fail">登录失败</string>
+    <string name="oauth_fail">授权失败</string>
+    <string name="oauth_cancle">授权取消</string>
+    <string name="tip_phone_regex_not_right">手机号码格式不正确</string>
+    <string name="tip_account_empty">请输入您的手机号或邮箱地址</string>
+    <string name="tip_account_regex_not_right">手机号格式不正确</string>
+    <string name="tip_password_can_not_be_empty">密码不能为空</string>
+    <string name="allen">AllenIverson</string>
+    <string name="user_rule">用户协议</string>
+    <string name="create_account">创建账号</string>
+    <string name="send_verification_code">获取验证码</string>
+    <string name="count_down">%ss</string>
+    <string name="tip_please_input_phone">请输入手机号码</string>
+    <string name="tip_phone_can_not_be_empty">手机号码不能为空</string>
+    <string name="tip_please_input_code">请输入验证码</string>
+    <string name="tip_please_input_6_32_password">请输入6-32个密码</string>
+    <string name="reset_pwd">重置密码</string>
+</resources>

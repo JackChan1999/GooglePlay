@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <!-- 简介 -->
+
+    <TextView
+        android:id="@+id/tv_introduction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="产品简介"
+        android:textColor="@color/color_text_1"
+        android:textSize="16sp"/>
+
+    <!-- 描述详情区域 -->
+
+    <TextView
+        android:id="@+id/app_detail_des_tv_des"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/color_text_2"
+        android:textSize="15sp"/>
+
+    <!-- 作者区域 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="25dp">
+
+        <TextView
+            android:id="@+id/app_detail_des_tv_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textColor="@color/color_text_2"
+            android:textSize="15sp"/>
+
+        <ImageView
+            android:id="@+id/app_detail_des_iv_arrow"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/arrow_down"/>
+    </RelativeLayout>
+
+    <!--<com.qq.googleplay.ui.widget.ExpandableTextView
+        android:id="@+id/expand_text_view"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_introduction"
+        expandableTextView:animDuration="200"
+        expandableTextView:maxCollapsedLines="5">
+
+        <com.qq.googleplay.ui.widget.aligntextview.AlignTextView
+            android:id="@+id/expandable_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#666666"
+            android:textIsSelectable="true"
+            android:textSize="16sp"/>
+
+        <ImageButton
+            android:id="@+id/expand_collapse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:background="@android:color/transparent"
+            android:padding="16dp"/>
+    </com.qq.googleplay.ui.widget.ExpandableTextView>
+
+    <TextView
+        android:id="@+id/app_detail_des_tv_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textColor="#666666"
+        android:textSize="16sp"/>-->
+
+</LinearLayout>
+
+

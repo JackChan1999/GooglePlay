@@ -1,0 +1,7 @@
+#Wed Nov 23 22:30:48 CST 2016
+base.0=E\:\\workspace\\GooglePlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67e38d45fcfdf2394c97ff132e3932542fa60da6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace\\GooglePlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a8cb510b4346ef5ded459a3f27701075f5c0e9f2\\classes.dex
+base.1=E\:\\workspace\\GooglePlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a8cb510b4346ef5ded459a3f27701075f5c0e9f2
+file.0=E\:\\workspace\\GooglePlay\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67e38d45fcfdf2394c97ff132e3932542fa60da6\\classes.dex

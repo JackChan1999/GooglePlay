@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_item_bg_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\grid_item_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_selected.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_selected.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_content_download_n_1.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_content_download_n_1.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_unselected.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_selected_focused.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_item_bg_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\grid_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_transparent_dark_holo.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_btn_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\progress_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_transparent_light_holo.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mz_list_selector_background_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\mz_list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\detail_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_thread_voice_refresh.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\icon_thread_voice_refresh.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_unselected_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_crop_operator.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_crop_operator.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_item_bg_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nothing.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\nothing.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_selected_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_unselected_focused.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_bottom_bg.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\detail_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_tab.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\bg_tab.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_content_download_s_1.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_content_download_s_1.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\progress_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\detail_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_item_bg_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_crop_pressed.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\btn_crop_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\progress_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_btn_normal.9.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\drawable-hdpi\\progress_btn_normal.9.png"
+    }
+]

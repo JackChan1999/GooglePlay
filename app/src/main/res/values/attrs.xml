@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="progressbtn_radius" format="float"/>
+        <attr name="progressbtn_backgroud_color" format="color"/>
+        <attr name="progressbtn_backgroud_second_color" format="color"/>
+        <attr name="progressbtn_text_color" format="color"/>
+        <attr name="progressbtn_text_covercolor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="ConvenientBanner">
+        <attr name="canLoop" format="boolean"/>
+    </declare-styleable>
+
+    <attr name="msDivider" format="reference"/>
+    <attr name="mcAuraThumbDrawble" format="reference"/>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="mcCenterTextColor" format="color"/>
+        <attr name="mcCenterTextSize" format="dimension"/>
+        <attr name="mcCircleBarColor" format="color"/>
+        <attr name="mcCircleBarMax" format="dimension"/>
+        <attr name="mcCircleBarProgress" format="dimension"/>
+        <attr name="mcCircleBarRimColor" format="color"/>
+        <attr name="mcCircleBarWidth" format="dimension"/>
+        <attr name="mcCircleIsShowProgress" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="TipDrawable">
+        <attr name="mcTipColor" format="color"/>
+        <attr name="mcTipRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ApplyingAnimationView">
+        <attr name="animationScale" format="float"/>
+    </declare-styleable>
+
+    <attr name="CustomButtonStyle" format="reference"/>
+    <attr name="TipDrawableStyle" format="reference"/>
+    <attr name="LoadingViewStyle" format="reference"/>
+    <attr name="TabScrollerStyle" format="reference"/>
+
+    <declare-styleable name="CircularProgressButton">
+        <attr name="selectorIdle" format="reference"/>
+        <attr name="selectorComplete" format="reference"/>
+        <attr name="selectorError" format="reference"/>
+        <attr name="textComplete" format="string"/>
+        <attr name="textIdle" format="string"/>
+        <attr name="textError" format="string"/>
+        <attr name="textProgress" format="string"/>
+        <attr name="colorProgress" format="color"/>
+        <attr name="colorIndicator" format="color"/>
+        <attr name="colorIndicatorBackground" format="color"/>
+        <attr name="iconError" format="reference"/>
+        <attr name="iconComplete" format="reference"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="paddingProgress" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="textColorComplete" format="reference|color"/>
+        <attr name="textColor_error" format="reference|color"/>
+        <attr name="textColorIdle" format="reference|color"/>
+        <attr name="strokeColorIdle" format="reference"/>
+        <attr name="strokeColorComplete" format="reference"/>
+        <attr name="strokeColorError" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="LoadingView">
+        <attr name="mcLoadingRadius" format="dimension"/>
+        <attr name="mcRingWidth" format="dimension"/>
+        <attr name="mcLBackground" format="color"/>
+        <attr name="mcLForeground" format="color"/>
+        <attr name="mcLoadingState" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="TabScroller">
+        <attr name="mcTabIndicatorDrawable" format="reference"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="Theme">
+        <attr name="mzAlertDialogTheme" format="reference"/>
+        <attr name="mzSearchEditClearIconStyle" format="reference"/>
+        <attr name="mzSearchEditSearchIconStyle" format="reference"/>
+        <attr name="mzSearchEditTextStyle" format="reference"/>
+        <attr name="mzSearchEditVoiceIconStyle" format="reference"/>
+        <attr name="mzThemeColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color"/>
+        <attr name="pstsUnderlineColor" format="color"/>
+        <attr name="pstsDividerColor" format="color"/>
+        <attr name="pstsIndicatorHeight" format="dimension"/>
+        <attr name="pstsUnderlineHeight" format="dimension"/>
+        <attr name="pstsDividerPadding" format="dimension"/>
+        <attr name="pstsTabPaddingLeftRight" format="dimension"/>
+        <attr name="pstsScrollOffset" format="dimension"/>
+        <attr name="pstsTabBackground" format="reference"/>
+        <attr name="pstsShouldExpand" format="boolean"/>
+        <attr name="pstsTextAllCaps" format="boolean"/>
+        <attr name="pstsTabTextSize" format="dimension"/>
+        <attr name="pstsTabTextColor" format="color"/>
+        <attr name="pstsSelectedTabTextSize" format="dimension"/>
+        <attr name="pstsSelectedTabTextColor" format="color"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="RatioLayout">
+        <attr name="picRatio" format="float"/>
+        <attr name="relative">
+            <enum name="width" value="0"/>
+            <enum name="height" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <!--CirCleRefreshLayout-->
+    <declare-styleable name="CirCleRefreshLayout">
+        <attr name="AniBackColor" format="color"/>
+        <attr name="AniForeColor" format="color"/>
+        <attr name="CircleSmaller" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension"/>
+        <attr name="civ_border_color" format="color"/>
+        <attr name="civ_border_overlay" format="boolean"/>
+        <attr name="civ_fill_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="FlexboxLayout">
+        <attr name="flexDirection">
+            <enum name="row" value="0"/>
+            <enum name="row_reverse" value="1"/>
+            <enum name="column" value="2"/>
+            <enum name="column_reverse" value="3"/>
+        </attr>
+
+        <attr name="flexWrap">
+            <enum name="nowrap" value="0"/>
+            <enum name="wrap" value="1"/>
+            <enum name="wrap_reverse" value="2"/>
+        </attr>
+
+        <!--
+            Omitting flex-flow property since it's reflected in the parent flex container.
+            Set the flexDirection and/or flexWrap to the parent flex container explicitly if you
+            want to use the flex-flow similar way to the web.
+         -->
+
+        <attr name="justifyContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+        </attr>
+
+        <attr name="alignItems">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr>
+
+        <attr name="alignContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+            <enum name="stretch" value="5"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="FlexboxLayout_Layout">
+        <attr name="layout_order" format="integer"/>
+
+        <!-- Negative numbers are invalid. -->
+        <attr name="layout_flexGrow" format="float"/>
+
+        <!-- Negative numbers are invalid. -->
+        <attr name="layout_flexShrink" format="float"/>
+
+        <!--
+            The initial length in StorageVolume percentage format relative to its parent. This is similar to the
+            flex-basis property in the original CSS specification.
+            (https://www.w3.org/TR/css-flexbox-1/#flex-basis-property)
+            But unlike the flex-basis property, this attribute only accepts StorageVolume value in fraction
+            (percentage), whereas flex-basis property accepts width values such as 1em, 10px and
+            the 'content' string.
+            But specifying initial fixed width values can be done by specifying width values in
+            layout_width (or layout_height, varies depending on the flexDirection). Also the same
+            effect can be done by specifying "wrap_contnet" in layout_width (or layout_height) if
+            developers want to achieve the same effect as 'content'.
+            Thus, this attribute only accepts fraction values, which can't be done through
+            layout_width (or layout_height) for simplicity.
+        -->
+        <attr name="layout_flexBasisPercent" format="fraction"/>
+
+        <!--
+            Omitting flex property since it's StorageVolume shorthand for layout_flexGrow and layout_flexShrink
+            and layout_percentInParent (flex-basis in the original CSS spec).
+        -->
+
+        <attr name="layout_alignSelf">
+            <enum name="auto" value="-1"/>
+            <!-- The values below need to match the values of alignItems -->
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr>
+
+        <attr name="layout_minWidth" format="dimension"/>
+        <attr name="layout_minHeight" format="dimension"/>
+        <attr name="layout_maxWidth" format="dimension"/>
+        <attr name="layout_maxHeight" format="dimension"/>
+
+        <!--
+            This attribute forces StorageVolume flex line wrapping. i.e. if this is set to true for StorageVolume
+            flex item, the item will become the first item of StorageVolume flex line. (A wrapping happens
+            regardless of the flex items being processed in the the previous flex line)
+            This attribute is ignored if the flex_wrap attribute is set to nowrap.
+            The equivalent attribute isn't defined in the original CSS Flexible Box Module
+            specification, but having this attribute is useful for Android developers to flatten
+            the layouts when building StorageVolume grid like layout or for StorageVolume situation where developers want
+            to put StorageVolume new flex line to make StorageVolume semantic difference from the previous one, etc.
+        -->
+        <attr name="layout_wrapBefore" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="ExpandableTextView">
+        <attr name="maxCollapsedLines" format="integer"/>
+        <attr name="animDuration" format="integer"/>
+        <attr name="animAlphaStart" format="float"/>
+        <attr name="expandDrawable" format="reference"/>
+        <attr name="collapseDrawable" format="reference"/>
+    </declare-styleable>
+
+    <!-- 末行对齐方式 -->
+    <declare-styleable name="AlignTextView">
+        <attr name="align" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <!-- 标点转换 -->
+    <declare-styleable name="CBAlignTextView">
+        <attr name="punctuationConvert" format="boolean"/>
+    </declare-styleable>
+
+</resources>

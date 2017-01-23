@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_search_white_48dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_white_48dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_android.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_android.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_search_white_36dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_white_36dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_search_white_24dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_white_24dp.png"
+    }
+]

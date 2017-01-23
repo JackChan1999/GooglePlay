@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- <com.qq.googleplay.ui.widget.FlexboxLayout
+         android:id="@id/fbl"
+         xmlns:app="http://schemas.android.com/apk/res-auto"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:paddingLeft="10dp"
+         android:paddingRight="10dp"
+         app:alignContent="center"
+         app:alignItems="stretch"
+         app:flexDirection="row"
+         app:flexWrap="wrap">
+
+         <ImageView
+             android:layout_width="150dp"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="10dp"
+             android:background="#ff0"
+             android:src="@mipmap/games"
+             app:layout_flexGrow="1"
+             />
+
+         <ImageView
+             android:layout_width="150dp"
+             android:layout_height="wrap_content"
+             android:background="#f0f"
+             android:src="@mipmap/hot_single"
+             app:layout_flexGrow="1"
+             />
+
+         <ImageView
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="10dp"
+             android:background="#f00"
+             android:src="@mipmap/beautiful"
+             app:layout_flexGrow="1"
+             />
+
+         <ImageView
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:src="@mipmap/recommended"
+             app:layout_flexGrow="1"
+             android:background="#0ff"
+             />
+
+     </com.qq.googleplay.ui.widget.FlexboxLayout>-->
+
+    <GridLayout
+        android:id="@id/gridlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/category_card_padding_bottom"
+        android:layout_marginLeft="@dimen/category_card_padding_left"
+        android:layout_marginRight="@dimen/category_card_padding_right"
+        android:layout_marginTop="@dimen/category_card_padding_top"
+        android:columnCount="2"
+        android:orientation="horizontal"
+        android:splitMotionEvents="false">
+
+        <ImageView
+            android:id="@id/image"
+            android:layout_width="173dp"
+            android:layout_height="43dp"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/games"/>
+        <ImageView
+            android:id="@id/image"
+            android:layout_width="173dp"
+            android:layout_height="43dp"
+            android:scaleType="fitXY"
+            android:layout_margin="5dp"
+            android:src="@mipmap/hot_single"/>
+        <ImageView
+            android:id="@id/image"
+            android:layout_width="173dp"
+            android:layout_height="43dp"
+            android:scaleType="fitXY"
+            android:layout_margin="5dp"
+            android:src="@mipmap/beautiful"/>
+        <ImageView
+            android:id="@id/image"
+            android:layout_width="173dp"
+            android:layout_height="43dp"
+            android:layout_margin="5dp"
+            android:scaleType="fitXY"
+            android:src="@mipmap/recommended"/>
+
+    </GridLayout>
+
+    <View
+        android:id="@id/divider"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/category_divider_bar_height"
+        android:layout_below="@id/gridlayout"
+        android:background="@color/common_list_item_bar"/>
+
+</LinearLayout>

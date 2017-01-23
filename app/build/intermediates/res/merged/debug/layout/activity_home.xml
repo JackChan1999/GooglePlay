@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ripple="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical"
+              android:weightSum="2">
+
+    <com.andexert.library.RippleView
+        android:id="@+id/rippleview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        ripple:rv_centered="false">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="#2050aa"
+            android:gravity="center"
+            android:padding="25dp"
+            android:text="Common Method Examples"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"/>
+    </com.andexert.library.RippleView>
+
+
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:id="@+id/rippleview1"
+        android:layout_below="@id/rippleview"
+        android:padding="20dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        ripple:rv_centered="false">
+
+
+        <TextView
+            android:id="@+id/txtDemo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:background="#2050aa"
+            android:padding="20dp"
+            android:text="View Demo"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+    </com.andexert.library.RippleView>
+
+
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rippleview2"
+        android:padding="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/rippleview1"
+        ripple:rv_centered="false">
+
+        <TextView
+            android:id="@+id/txtCodeSnip"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="#2050aa"
+            android:padding="20dp"
+            android:text="Code Snippet"
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+    </com.andexert.library.RippleView>
+
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:id="@+id/rippleview3"
+        android:layout_centerHorizontal="true"
+        android:padding="20dp"
+        android:layout_below="@id/rippleview2"
+        android:layout_height="wrap_content"
+        ripple:rv_centered="false">
+
+        <TextView
+            android:id="@+id/txtMaterialLibrary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="#2050aa"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Material Libraries List"
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+    </com.andexert.library.RippleView>
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/titleBlue</item>
+        <item name="colorPrimaryDark">#3A5FCD</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:colorControlHighlight">@color/ripple_material_light</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+    </style>
+
+</resources>

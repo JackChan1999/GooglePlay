@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- <item name="colorPrimary">@color/colorPrimary</item>
+         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+         <item name="colorAccent">@color/colorAccent</item>-->
+        <item name="colorPrimary">@color/titleBlue</item>
+        <item name="colorPrimaryDark">#3A5FCD</item>
+        <item name="@android:textColorPrimary">@android:color/white</item>
+
+    </style>
+
+    <style name="ActionBarTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="actionBarSize">48dp</item>
+    </style>
+
+    <style name="CustomTabLayout">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Widget.AuraSeekBar.Color.DodgerBlue" parent="@style/Widget.AppCompat.SeekBar">
+        <item name="android:indeterminateDrawable">
+            @drawable/scrubber_progress_horizontal_color_dodgerblue
+        </item>
+        <item name="android:progressDrawable">
+            @drawable/scrubber_progress_horizontal_color_dodgerblue
+        </item>
+        <item name="android:thumb">@drawable/scrubber_control_selector_color_dodgerblue</item>
+        <item name="mcAuraThumbDrawble">@drawable/scrubber_control_draged_bg_color_dodgerblue</item>
+    </style>
+
+    <style name="CropButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/selector_crop_button</item>
+    </style>
+
+    <!-- 登录注册样式 -->
+    <style name="login_edit_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:textColorHint">#969696</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:cursorVisible">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:drawableRight">@mipmap/ic_delete_grey</item>
+        <item name="android:paddingLeft">15dp</item>
+    </style>
+
+</resources>

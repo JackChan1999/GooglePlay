@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <import type="android.graphics.Bitmap" />
+        <import type="java.util.ArrayList" />
+        <import type="java.util.HashMap" />
+        <import type="com.qq.googleplay.bean.AppInfoBean" alias="MyAppInfoBean"/>
+
+        &lt;!&ndash; 集合的定义 &ndash;&gt;
+        &lt;!&ndash;<variable
+            name="list"
+            type="ArrayList&lt;String&gt;" />
+        <variable
+            name="map"
+            type="HashMap &lt; String, String &gt" />
+        <variable
+            name="array"
+            type="String[]" />&ndash;&gt;
+
+         为集合定义对应的索引
+        <variable
+            name="listKey"
+            type="int" />
+        <variable
+            name="mapKey"
+            type="String" />
+        <variable
+            name="arrayKey"
+            type="int" />
+
+        &lt;!&ndash; 字符串，布尔值和int的用法&ndash;&gt;
+        <variable
+            name="str"
+            type="String"/>
+        <variable
+            name="error"
+            type="boolean"/>
+        <variable
+            name="num"
+            type="int" />
+
+        <variable
+            name="appinfo"
+            type="com.qq.googleplay.bean.AppInfoBean"/>
+
+        <variable
+        name="clickListener"
+        type="android.view.View.OnClickListener"/>
+        &lt;!&ndash;android:onClick="@{clickListener}"&ndash;&gt;
+        &lt;!&ndash;android:text='@{error ? "error" : "ok"}'&ndash;&gt;
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:clickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardBackgroundColor="@color/cardview_light_background"
+            app:cardCornerRadius="0dp"
+            app:cardElevation="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="6dp"
+                android:paddingRight="6dp"
+                android:paddingTop="10dp">
+
+                &lt;!&ndash; 图片标题下载区域 &ndash;&gt;
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="72dp">
+
+                    &lt;!&ndash; 图片 &ndash;&gt;
+
+                    <ImageView
+                        android:id="@+id/item_appinfo_iv_icon"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:src="@{appinfo.iconUrl}"/>
+
+                    &lt;!&ndash; 文字部分 &ndash;&gt;
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@id/item_appinfo_iv_icon"
+                        android:orientation="vertical">
+
+                        &lt;!&ndash; 标题 &ndash;&gt;
+
+                        <TextView
+                            android:id="@+id/item_appinfo_tv_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:singleLine="true"
+                            android:text="@{appinfo.name}"
+                            android:textColor="#dd000000"
+                            android:textSize="16sp"/>
+
+                        &lt;!&ndash; 评分 &ndash;&gt;
+
+                        <RatingBar
+                            android:id="@+id/item_appinfo_rb_stars"
+                            android:layout_width="wrap_content"
+                            android:layout_height="15dp"
+                            android:layout_marginTop="2dp"
+                            android:isIndicator="true"
+                            android:progressDrawable="@drawable/layerlist_ratingbar"
+                            android:numStars="@{appinfo.stars}"/>
+
+                        &lt;!&ndash; 应用的大小 &ndash;&gt;
+
+                        <TextView
+                            android:id="@+id/item_appinfo_tv_size"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="2dp"
+                            android:singleLine="true"
+                            android:text="@{appinfo.size}"
+                            android:textColor="#8a000000"
+                            android:textSize="14sp"/>
+                    </LinearLayout>
+
+                    &lt;!&ndash; 下载部分 &ndash;&gt;
+
+                    <LinearLayout
+                        android:layout_width="70dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:src="@mipmap/ic_download"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="下载"
+                            android:textColor="#8a000000"/>
+                    </LinearLayout>
+                </RelativeLayout>
+
+                &lt;!&ndash; 分割线 &ndash;&gt;
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/item_divider"/>
+
+                &lt;!&ndash; 描述部分 &ndash;&gt;
+
+                <TextView
+                    android:id="@+id/item_appinfo_tv_des"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="@{appinfo.des}"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:textColor="#8a000000"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </FrameLayout>
+
+</layout>-->
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="4dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardBackgroundColor="@color/cardview_light_background"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="10dp">
+
+            <!-- 图片标题下载区域 -->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+                <!-- 图片 -->
+
+                <ImageView
+                    android:id="@+id/item_appinfo_iv_icon"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"/>
+
+                <!-- 文字部分 -->
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/item_appinfo_iv_icon"
+                    android:orientation="vertical">
+
+                    <!-- 标题 -->
+
+                    <TextView
+                        android:id="@+id/item_appinfo_tv_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="应用标题"
+                        android:textColor="#dd000000"
+                        android:textSize="16sp"/>
+
+                    <!-- 评分 -->
+
+                    <RatingBar
+                        android:id="@+id/item_appinfo_rb_stars"
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp"
+                        android:layout_marginTop="2dp"
+                        android:isIndicator="true"
+                        android:progressDrawable="@drawable/layerlist_ratingbar"
+                        />
+
+                    <!-- 应用的大小 -->
+
+                    <TextView
+                        android:id="@+id/item_appinfo_tv_size"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:singleLine="true"
+                        android:text="应用大小"
+                        android:textColor="#8a000000"
+                        android:textSize="14sp"/>
+                </LinearLayout>
+
+                <!-- 下载部分 -->
+
+                <com.qq.googleplay.ui.widget.CircleProgressView
+                    android:id="@+id/circleprogressview"
+                    android:layout_width="70dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+                </com.qq.googleplay.ui.widget.CircleProgressView>
+
+               <!-- <LinearLayout
+                    android:layout_width="70dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:src="@mipmap/ic_download"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="下载"
+                        android:textColor="#8a000000"/>
+                </LinearLayout>-->
+            </RelativeLayout>
+
+            <!-- 分割线 -->
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/item_divider"/>
+
+            <!-- 描述部分 -->
+
+            <TextView
+                android:id="@+id/item_appinfo_tv_des"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textColor="#8a000000"
+                android:textSize="14sp"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>

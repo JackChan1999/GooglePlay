@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rating_small_half.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_page_indicator_focused.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\vote_item_right_arr.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\vote_item_right_arr.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_scans.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_scans.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\no_data_image_1.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\no_data_image_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_mycenter_avatar_def_i_1.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\pic_mycenter_avatar_def_i_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\spinner_small_outer.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\spinner_small_outer.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_about.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\no_data_image.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\no_data_image.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\game.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\game.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\net_refresh_emotion.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\net_refresh_emotion.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\recommended.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\recommended.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\hot_single.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\hot_single.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\spinner_small_inner.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\spinner_small_inner.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\airdroid.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\airdroid.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\camera_crop_height.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\camera_crop_height.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading3.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading3.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\facebook.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\facebook.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_color.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\bg_color.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rating_small_empty.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_rotate_right.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_rotate_right.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_pause.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sample_footer_error.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\sample_footer_error.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_home.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading5.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading5.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_error_page.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_error_page.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\game_main.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\game_main.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_theme.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_theme.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\blank_profile.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\blank_profile.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\photo_over.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\photo_over.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_default.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_rotate_left.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_rotate_left.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_install.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_install.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_home_slide.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_home_slide.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\beautiful.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\beautiful.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\new_bank.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\new_bank.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_redownload.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_redownload.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_empty_page.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_empty_page.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading7.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading7.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\arrow_up.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\necessary.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\necessary.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\videorecord.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\videorecord.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading2.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading2.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_expand_more_black_12dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_expand_more_black_12dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\indicator_autocrop.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\indicator_autocrop.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\googleplus.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\googleplus.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg_photo.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\bg_photo.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\photocapture.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\photocapture.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\twitter.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\twitter.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_setting.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\toast_icon.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\toast_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\err_toast_icon.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\err_toast_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading6.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading6.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\newapp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\newapp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_exit.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sample_footer_loading.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_expand_less_black_12dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_expand_less_black_12dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_expand_less_black_16dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_expand_less_black_16dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pic_mycenter_avatar_def_i.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\pic_mycenter_avatar_def_i.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\linkedin.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\linkedin.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rating_small_full.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_download.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_download.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_drawer_am.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_drawer_am.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_action_search.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_expand_more_black_16dp.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_expand_more_black_16dp.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\camera_crop_width.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\camera_crop_width.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\androidzoom.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\androidzoom.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\fastscroll_default.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\fastscroll_default.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\photopick.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\photopick.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\arrow_down.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\welfare.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\welfare.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_updates.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_updates.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\games.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\games.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_resume.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_resume.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading4.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading4.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\gif_loading1.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\gif_loading1.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\net_refresh_emotion_1.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\net_refresh_emotion_1.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_page_indicator.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_page_indicator.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_android.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_android.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\videopick.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\videopick.png"
+    },
+    {
+        "merged": "E:\\workspace\\GooglePlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_feedback.png",
+        "source": "E:\\workspace\\GooglePlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_feedback.png"
+    }
+]
