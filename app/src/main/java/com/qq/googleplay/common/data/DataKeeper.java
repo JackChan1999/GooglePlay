@@ -22,7 +22,26 @@ import com.qq.googleplay.android.log.Log;
 import com.qq.googleplay.common.data.cipher.Cipher;
 import com.qq.googleplay.common.utils.ByteUtil;
 import com.qq.googleplay.common.utils.HexUtil;
-
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：GooglePlay
+ * Package_Name：com.qq.googleplay
+ * Version：1.0
+ * time：2016/2/16 13:33
+ * des ：${TODO}
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 public class DataKeeper {
     private SharedPreferences sp;
     public static final  String KEY_PK_HOME = "msg_pk_home";

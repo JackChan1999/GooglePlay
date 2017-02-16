@@ -18,7 +18,26 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.FrameLayout;
 import android.widget.TabWidget;
 import android.widget.TextView;
-
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：GooglePlay
+ * Package_Name：com.qq.googleplay
+ * Version：1.0
+ * time：2016/2/16 13:33
+ * des ：${TODO}
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 public class BadgeView extends TextView {
     private static final int DEFAULT_BADGE_COLOR = Color.parseColor("#FFFF4C4B");
     private static final int DEFAULT_CORNER_RADIUS_DIP = 8;

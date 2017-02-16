@@ -24,7 +24,26 @@ import android.graphics.drawable.ScaleDrawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.StateListDrawable;
 import android.util.LruCache;
-
+/**
+ * ============================================================
+ * Copyright：Google有限公司版权所有 (c) 2017
+ * Author：   陈冠杰
+ * Email：    815712739@qq.com
+ * GitHub：   https://github.com/JackChen1999
+ * 博客：     http://blog.csdn.net/axi295309066
+ * 微博：     AndroidDeveloper
+ * <p>
+ * Project_Name：GooglePlay
+ * Package_Name：com.qq.googleplay
+ * Version：1.0
+ * time：2016/2/16 13:33
+ * des ：${TODO}
+ * gitVersion：$Rev$
+ * updateAuthor：$Author$
+ * updateDate：$Date$
+ * updateDes：${TODO}
+ * ============================================================
+ **/
 public class StrokeDrawableUtils {
     private static final int DEF_STROKE_RADIUS = 1;
     private static final int EFFECTIVE_COLOR = Color.GRAY;
