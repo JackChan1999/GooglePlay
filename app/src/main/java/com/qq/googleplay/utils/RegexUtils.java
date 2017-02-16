@@ -15,16 +15,13 @@ import java.util.regex.Pattern;
  * Package_Name：com.qq.googleplay
  * Version：1.0
  * time：2016/2/16 13:33
- * des ：${TODO}
+ * des ：正则工具类 提供验证邮箱、手机号、电话号码、身份证号码、数字等方法
  * gitVersion：$Rev$
  * updateAuthor：$Author$
  * updateDate：$Date$
  * updateDes：${TODO}
  * ============================================================
  **/
-/**
- * 正则工具类 提供验证邮箱、手机号、电话号码、身份证号码、数字等方法
- */
 public final class RegexUtils {
 
 	/**

@@ -19,16 +19,14 @@ import android.widget.ImageView;
  * Package_Name：com.qq.googleplay
  * Version：1.0
  * time：2016/2/16 13:33
- * des ：${TODO}
+ * des ：图片背景切换动画帮助类
  * gitVersion：$Rev$
  * updateAuthor：$Author$
  * updateDate：$Date$
  * updateDes：${TODO}
  * ============================================================
  **/
-/**
- * 图片背景切换动画帮助类
- */
+
 public class ViewSwitchUtils {
 
     public static void startSwitchBackgroundAnim(ImageView view, Bitmap bitmap) {

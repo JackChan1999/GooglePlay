@@ -24,17 +24,14 @@ import android.widget.EditText;
  * Package_Name：com.qq.googleplay
  * Version：1.0
  * time：2016/2/16 13:33
- * des ：${TODO}
+ * des ：带有删除功能的EditText
  * gitVersion：$Rev$
  * updateAuthor：$Author$
  * updateDate：$Date$
  * updateDes：${TODO}
  * ============================================================
  **/
-/**
- * @ClassName: CleanEditText 
- * @Description: 带有删除功能的EditText
- */
+
 public class CleanEditText extends EditText {
 
 	private final String TAG = "editText";

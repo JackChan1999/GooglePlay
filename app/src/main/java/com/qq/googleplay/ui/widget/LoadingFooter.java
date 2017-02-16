@@ -22,16 +22,13 @@ import com.qq.googleplay.R;
  * Package_Name：com.qq.googleplay
  * Version：1.0
  * time：2016/2/16 13:33
- * des ：${TODO}
+ * des ：ListView/GridView/RecyclerView 分页加载时使用到的FooterView
  * gitVersion：$Rev$
  * updateAuthor：$Author$
  * updateDate：$Date$
  * updateDes：${TODO}
  * ============================================================
  **/
-/**
- * ListView/GridView/RecyclerView 分页加载时使用到的FooterView
- */
 public class LoadingFooter extends RelativeLayout {
 
     protected State mState = State.Normal;
